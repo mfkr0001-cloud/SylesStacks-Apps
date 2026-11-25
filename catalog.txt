@@ -1,0 +1,3 @@
+SylesStacks Apps
+APK storage repository
+Version 1.0
